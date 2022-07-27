@@ -4,3 +4,4 @@ Alfian Plan in Liburan Semester 4 tgl 14 Juli - Akhir Agustus/September (SAMPAI 
 - Belajar PBO lagi 
 - Membuat LinkedIn
 - Membuat Project Web Boosting Dota2 dari belajar Laravel
+-istiqomah
